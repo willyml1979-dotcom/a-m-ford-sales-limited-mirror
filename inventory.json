@@ -1,6 +1,6 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-10-07T19:48:00",
+  "generated_at": "2026-10-07T20:23:54",
   "vehicle_count": 173,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2010,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2010 Hyundai Tucson ",
@@ -34,7 +36,9 @@
       "year": 2010,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2011 Chevrolet Aveo 5dr Wgn Ltin Trail",
@@ -49,7 +53,9 @@
       "year": 2011,
       "make": "Chevrolet",
       "model": "Aveo 5dr Wgn Ltin Trail",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2011 Chevrolet Aveo ",
@@ -64,7 +70,9 @@
       "year": 2011,
       "make": "Chevrolet",
       "model": "Aveo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2011 Ford F-250 4wd Crew Cab 156\" Xlin Trail",
@@ -80,7 +88,9 @@
       "year": 2011,
       "make": "Ford",
       "model": "F-250",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2011 Ford F-250 ",
@@ -95,7 +105,9 @@
       "year": 2011,
       "make": "Ford",
       "model": "F-250",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 4wd Supercrew 145\" Xin Trail",
@@ -111,7 +123,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 ",
@@ -124,7 +138,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape 4wd 4dr Sein Trail",
@@ -140,7 +156,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -153,7 +171,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford F-150 4wd Supercrewin Trail",
@@ -169,7 +189,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford F-150 ",
@@ -184,7 +206,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Mustang 2dr Conv Gt Premiumin Trail",
@@ -200,7 +224,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Mustang ",
@@ -215,7 +241,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -228,7 +256,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Ford F-150 ",
@@ -243,7 +273,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport Awd 4dr 2.0t Sein Trail",
@@ -259,7 +291,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
@@ -275,7 +309,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
@@ -289,7 +325,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Cherokee 4WD 4dr Limitedin Trail",
@@ -305,7 +343,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Cherokee ",
@@ -321,7 +361,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge Titanium Awdin Trail",
@@ -337,7 +379,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge ",
@@ -352,7 +396,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge ",
@@ -367,7 +413,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford EcoSport S 4wdin Trail",
@@ -383,7 +431,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford EcoSport ",
@@ -398,7 +448,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape 4dr 4wd Selin Trail",
@@ -414,7 +466,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape ",
@@ -429,7 +483,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 Limited 4WD SuperCrew 5.5' Boxin Trail",
@@ -445,7 +501,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -460,7 +518,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Ranger Xlt 4wd Supercrew 5in Trail",
@@ -476,7 +536,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Ranger ",
@@ -491,7 +553,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford EcoSport ",
@@ -506,7 +570,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "EcoSport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape ",
@@ -521,7 +587,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -536,7 +604,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Ranger ",
@@ -551,7 +621,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -566,7 +638,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 XL 4WD SuperCab 6.5' Boxin Trail",
@@ -582,7 +656,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 Xlt 4wd Supercrew 5in Trail",
@@ -598,7 +674,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -613,7 +691,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -628,7 +708,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage ",
@@ -643,7 +725,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 Lariat 4wd Supercrewin Trail",
@@ -659,7 +743,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 Xlt 4wd Supercrew 6in Trail",
@@ -675,7 +761,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -690,7 +778,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -705,7 +795,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Outer Banks 4 Door 4in Trail",
@@ -721,7 +813,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -736,7 +830,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Sport Big Bend 4x4in Trail",
@@ -752,7 +848,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Sport ",
@@ -765,7 +863,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape Se Plug-In Hybrid Fwin Trail",
@@ -781,7 +881,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -796,7 +898,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer Xlt 4wdin Trail",
@@ -812,7 +916,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ",
@@ -827,7 +933,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 XL 4WD SuperCrew 5.5' Boxin Trail",
@@ -843,7 +951,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -858,7 +968,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick LARIAT AWD SuperCrewin Trail",
@@ -874,7 +986,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -889,7 +1003,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -904,7 +1020,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Sport ",
@@ -917,7 +1035,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -932,7 +1052,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ",
@@ -947,7 +1069,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -962,7 +1086,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -977,7 +1103,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Yukon XL ",
@@ -992,7 +1120,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Yukon XL ",
@@ -1007,7 +1137,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus IS 350 ",
@@ -1022,7 +1154,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "IS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus IS 350 ",
@@ -1037,7 +1171,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "IS",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 Xlt 4wd Supercrew 6in Trail",
@@ -1053,7 +1189,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1066,7 +1204,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick Xl Awd Supercrewin Trail",
@@ -1082,7 +1222,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick ",
@@ -1095,7 +1237,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Transit T-350 130\" Med Rf 95in Trail",
@@ -1111,7 +1255,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Transit ",
@@ -1126,7 +1272,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -1139,7 +1287,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick ",
@@ -1152,7 +1302,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Transit ",
@@ -1167,7 +1319,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Transit",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Badlands 4x4in Trail",
@@ -1183,7 +1337,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1199,7 +1355,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1212,7 +1370,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Edge Titanium AWDin Trail",
@@ -1228,7 +1388,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Edge ",
@@ -1243,7 +1405,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Stx 4wd Supercrew 5in Trail",
@@ -1259,7 +1423,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 Xlt 4wd Supercrew 6in Trail",
@@ -1275,7 +1441,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1290,7 +1458,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Maverick Xl Awd Supercrewin Trail",
@@ -1306,7 +1476,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Maverick ",
@@ -1321,7 +1493,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1334,7 +1508,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Edge ",
@@ -1349,7 +1525,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1364,7 +1542,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Maverick ",
@@ -1377,7 +1557,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX ",
@@ -1392,7 +1574,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru WRX ",
@@ -1407,7 +1591,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport Big Bend 4x4in Trail",
@@ -1423,7 +1609,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1438,7 +1626,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 Xlt 4wd Supercrew 5in Trail",
@@ -1454,7 +1644,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1469,7 +1661,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty Lariat 4wd Crew Cabin Trail",
@@ -1485,7 +1679,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty ",
@@ -1498,7 +1694,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1513,7 +1711,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport 4dr 4wd Badlandsin Trail",
@@ -1528,7 +1728,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport 4dr 4wd Badlandsin Trail",
@@ -1543,7 +1745,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger 4wd Supercrew Xltin Trail",
@@ -1558,7 +1762,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1573,7 +1779,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1588,7 +1796,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty ",
@@ -1601,7 +1811,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1617,7 +1829,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1633,7 +1847,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1649,7 +1865,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1665,7 +1883,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1681,7 +1901,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1697,7 +1919,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1713,7 +1937,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1729,7 +1955,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1745,7 +1973,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1761,7 +1991,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1777,7 +2009,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1793,7 +2027,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -1809,7 +2045,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco 2dr 4wd Basein Trail",
@@ -1824,7 +2062,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
@@ -1839,7 +2079,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Badlandsin Trail",
@@ -1854,7 +2096,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1869,7 +2113,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1884,7 +2130,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
@@ -1899,7 +2147,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1914,7 +2164,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Badlandsin Trail",
@@ -1929,7 +2181,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
@@ -1944,7 +2198,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -1959,7 +2215,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
@@ -1974,7 +2232,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Badlands 4x4in Trail",
@@ -1989,7 +2249,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Trail",
@@ -2004,7 +2266,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
@@ -2019,7 +2283,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
@@ -2034,7 +2300,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bendin Trail",
@@ -2049,7 +2317,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Trail",
@@ -2064,7 +2334,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bendin Trail",
@@ -2079,7 +2351,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Trail",
@@ -2094,7 +2368,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer 4dr 4wd Activein Trail",
@@ -2109,7 +2385,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer 4dr 4wd Tremorin Trail",
@@ -2124,7 +2402,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer 4dr 4wd St-Linein Trail",
@@ -2139,7 +2419,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 STX 4WD SuperCab 6.5' Boxin Trail",
@@ -2154,7 +2436,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XL 4WD Reg Cab 8' Boxin Trail",
@@ -2169,7 +2453,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XLT AWD SuperCrewin Trail",
@@ -2184,7 +2470,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XLT AWD SuperCrewin Trail",
@@ -2199,7 +2487,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Supercrew Awd Xltin Trail",
@@ -2214,7 +2504,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XL AWD SuperCrewin Trail",
@@ -2229,7 +2521,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Supercrew Awd Xltin Trail",
@@ -2244,7 +2538,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
@@ -2259,7 +2555,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
@@ -2274,7 +2572,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
@@ -2289,7 +2589,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang 4dr Awd Premiumin Trail",
@@ -2304,7 +2606,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Premium Awdin Trail",
@@ -2319,7 +2623,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E Premium AWDin Trail",
@@ -2334,7 +2640,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E Select AWDin Trail",
@@ -2349,7 +2657,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E Premium AWDin Trail",
@@ -2364,7 +2674,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E Premiumin Trail",
@@ -2379,7 +2691,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xltin Trail",
@@ -2394,7 +2708,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xltin Trail",
@@ -2409,7 +2725,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xlin Trail",
@@ -2424,7 +2742,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xltin Trail",
@@ -2439,7 +2759,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xlin Trail",
@@ -2454,7 +2776,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Lariatin Trail",
@@ -2469,7 +2793,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xltin Trail",
@@ -2484,7 +2810,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4wd Supercrew Xlin Trail",
@@ -2499,7 +2827,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2514,7 +2844,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2529,7 +2861,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2544,7 +2878,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2559,7 +2895,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2574,7 +2912,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2589,7 +2929,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -2604,7 +2946,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer 4dr 4wd Platinumin Trail",
@@ -2619,7 +2963,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Trail",
+      "province": "BC"
     }
   ]
 }
