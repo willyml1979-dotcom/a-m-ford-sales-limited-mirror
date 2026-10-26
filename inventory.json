@@ -1,7 +1,7 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-10-25T21:31:06",
-  "vehicle_count": 153,
+  "generated_at": "2026-10-25T21:51:09",
+  "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -43,6 +43,22 @@
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/041e8b7bc536.html",
       "condition": "new",
       "price": 54275.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Big Bendin Trail",
+      "vin": "3FMCR9BN5TRF42064",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3774a73e38f0.html",
+      "condition": "new",
+      "price": 42590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banksin Trail",
+      "vin": "3FMCR9CN8TRF24348",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/4ab0b894d395.html",
+      "condition": "new",
+      "price": 54525.0,
       "price_currency": "CAD"
     },
     {
@@ -102,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
+      "vin": "3FTTW8J30TRB42887",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/b274146dc57a.html",
+      "condition": "new",
+      "price": 45095.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford Mustang Mach-E Premium AWDin Trail",
       "vin": "3FMTK3SUXTMA11061",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/d065ea8685ca.html",
@@ -113,6 +137,14 @@
       "name": "New 2026 Ford Mustang Mach-E Premium AWDin Trail",
       "vin": "3FMTK3SU2TMA23804",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3476ff2a6fc6.html",
+      "condition": "new",
+      "price": 54515.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premium AWDin Trail",
+      "vin": "3FMTK3SU2TMA23804",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/068214f429ce.html",
       "condition": "new",
       "price": 54515.0,
       "price_currency": "CAD"
@@ -155,6 +187,14 @@
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/1dd968e5a3d7.html",
       "condition": "new",
       "price": 65430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger 4wd Supercrew Xltin Trail",
+      "vin": "1FTER4HHXTLE44972",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3dc027022e9d.html",
+      "condition": "new",
+      "price": 55935.0,
       "price_currency": "CAD"
     },
     {
@@ -1180,69 +1220,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/49d1e5f598b8.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/011868af9b8f.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/ddcb3e39490f.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/89d9f2a9e4ea.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e9b625498b7.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN0TRE41952",
+      "name": "2026 Ford Maverick ",
+      "vin": "3FTTW8BA1TRB21530",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/5ad6722c6dfb.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Maverick",
       "condition": "new",
-      "price": 38615.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
@@ -1411,28 +1451,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bendin Trail",
-      "vin": "3FMCR9BN5TRF42064",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3774a73e38f0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 38840.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banksin Trail",
-      "vin": "3FMCR9CN8TRF24348",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/4ab0b894d395.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 49775.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Maverick XLT AWD SuperCrewin Trail",
       "vin": "3FTTW8JA3TRA49313",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/657e093c1130.html",
@@ -1477,17 +1495,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
-      "vin": "3FTTW8J30TRB42887",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/b274146dc57a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick Hybrid",
-      "condition": "new",
-      "price": 45095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Mustang Mach-E Premium AWDin Trail",
       "vin": "3FMTK3SUXTMA11061",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3adbb0042354.html",
@@ -1496,39 +1503,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 56510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium AWDin Trail",
-      "vin": "3FMTK3SU2TMA23804",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/068214f429ce.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 54515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premiumin Trail",
-      "vin": "3FMTK3SU7TMA26570",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3817aee77d39.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 55955.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger 4wd Supercrew Xltin Trail",
-      "vin": "1FTER4HHXTLE44972",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3dc027022e9d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 55935.0,
       "price_currency": "CAD"
     },
     {
