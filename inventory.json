@@ -1,7 +1,7 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-17T04:39:50",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-17T05:34:49",
+  "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -95,6 +95,14 @@
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/ac2ba27d1140.html",
       "condition": "used",
       "price": 63989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2022 for salein Trail",
+      "vin": "3FMCR9B67NRE05509",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e999ee15487.html",
+      "condition": "new",
+      "price": 27989.0,
       "price_currency": "CAD"
     },
     {
@@ -482,17 +490,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco Sport ",
-      "vin": "3FMCR9B67NRE05509",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e999ee15487.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 27989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Explorer ",
       "vin": "1FMSK8DH9NGA04429",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e7091561dd2.html",
@@ -841,7 +838,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Badlands 4x4in Trail",
+      "name": "New 2025 Ford Bronco Sport Badlands 4x4in Trail",
       "vin": "3FMCR9DA3SRF33517",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/971cabb5aa4d.html",
       "year": 2025,
@@ -1039,25 +1036,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN7TRE03134",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/cdff68d1163c.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 41925.0,
+      "price": 44925.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlands 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Badlands 4x4in Trail",
       "vin": "3FMCR9DA3TRE04372",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/9318b781747c.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49695.0,
+      "price": 53695.0,
       "price_currency": "CAD"
     },
     {
@@ -1072,80 +1069,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN1TRE21371",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/c8228c670543.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 42210.0,
+      "price": 45210.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Trail",
       "vin": "3FMCR9CN1TRE19117",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/55b57122ea6f.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 45615.0,
+      "price": 49615.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlands 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Badlands 4x4in Trail",
       "vin": "3FMCR9DA8TRE37822",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/cf44247dd104.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49490.0,
+      "price": 53490.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN0TRE41952",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/9f6986c7a5f1.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38615.0,
+      "price": 41615.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Trail",
       "vin": "3FMCR9CN9TRE36179",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/486f7f8dcf95.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 45720.0,
+      "price": 49720.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN1TRE36050",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/706f29281cac.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 41610.0,
+      "price": 44610.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlands 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Badlands 4x4in Trail",
       "vin": "3FMCR9DA0TRF03442",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/542ae279eb85.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49635.0,
+      "price": 53635.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,6 +1220,39 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 39095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
+      "vin": "3FMCR9CN8TRF24348",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/d00552e77c7b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 53775.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
+      "vin": "3FMCR9BN5TRF42064",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7bd37ee896db.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 41840.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
+      "vin": "3FMCR9CN8TRF23992",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/754dc6985f9f.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 53525.0,
       "price_currency": "CAD"
     },
     {
@@ -1388,6 +1418,72 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 54515.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Selectin Trail",
+      "vin": "3FMTK1S57TMA30860",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/83481987478e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 50605.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Trail",
+      "vin": "3FMTK3SU6TMA29170",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/54f61ac2695a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 54235.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Trail",
+      "vin": "3FMTK3SU4TMA30320",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/ed2bf73ddd4e.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 54235.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Trail",
+      "vin": "3FMTK3SUXTMA26899",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/d307ebd5ed91.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 54530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Trail",
+      "vin": "3FMTK3SU5TMA29404",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/ea4bddffe348.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 52090.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Mustang Mach-E Premiumin Trail",
+      "vin": "3FMTK3SU2TMA27884",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/0dadf992c727.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 54955.0,
       "price_currency": "CAD"
     },
     {
