@@ -1,6 +1,6 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-17T05:34:49",
+  "generated_at": "2026-11-17T22:34:58",
   "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -58,6 +58,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Explorer 2021 for salein Trail",
+      "vin": "1FMSK8FH8MGB62272",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/aa0cf31a914a.html",
+      "condition": "used",
+      "price": 29989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford F-150 2021 for salein Trail",
       "vin": "1FTFW1E50MKE14571",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/6768f3c974e7.html",
@@ -90,11 +98,67 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Yukon XL 2022 for salein Trail",
+      "vin": "1GKS2JKT5NR227997",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/4af9c35a0c6b.html",
+      "condition": "used",
+      "price": 57989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2023 for salein Trail",
+      "vin": "1FTEW1EP5PKD14208",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/359cf1ae5666.html",
+      "condition": "used",
+      "price": 45989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2023 for salein Trail",
+      "vin": "3FTTW8F94PRA92952",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/533a5d089429.html",
+      "condition": "used",
+      "price": 32989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Transit 2023 for salein Trail",
+      "vin": "1FTBW9CG3PKB57802",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9d33182fe32e.html",
+      "condition": "used",
+      "price": 37850.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Tundra Hybrid 2023 for salein Trail",
       "vin": "5TFNC5DB6PX020597",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/ac2ba27d1140.html",
       "condition": "used",
       "price": 63989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2024 for salein Trail",
+      "vin": "3FMCR9C6XRRE64686",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/2ff7dace0de3.html",
+      "condition": "used",
+      "price": 36989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2025 for salein Trail",
+      "vin": "3FMCR9BN6SRE13359",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/ee13c5f4bf2c.html",
+      "condition": "used",
+      "price": 34989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2025 for salein Trail",
+      "vin": "3FTTW8BA3SRB25920",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/eb234ed7c410.html",
+      "condition": "used",
+      "price": 35989.0,
       "price_currency": "CAD"
     },
     {
@@ -373,13 +437,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Explorer Xlt 4wdin Trail",
+      "name": "2021 Ford Explorer XLT 4WDin Trail",
       "vin": "1FMSK8DH7MGB08917",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9881d6bf4aa0.html",
       "year": 2021,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "price": 32989.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2021 Ford Explorer Limited 4wdin Trail",
@@ -391,15 +457,6 @@
       "condition": "used",
       "price": 29989.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Explorer ",
-      "vin": "1FMSK8DH7MGB08917",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/aa0cf31a914a.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used"
     },
     {
       "name": "2021 Ford F-150 Xlt 4wd Supercrew 6in Trail",
@@ -536,17 +593,6 @@
     {
       "name": "2022 GMC Yukon XL ",
       "vin": "1GKS2JKT5NR227997",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/4af9c35a0c6b.html",
-      "year": 2022,
-      "make": "GMC",
-      "model": "Yukon XL",
-      "condition": "used",
-      "price": 57989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 GMC Yukon XL ",
-      "vin": "1GKS2JKT5NR227997",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/4af9c35a0c6b.html",
       "year": 2022,
       "make": "GMC",
@@ -578,17 +624,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E89PFB01090",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/359cf1ae5666.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Maverick Xl Awd Supercrewin Trail",
       "vin": "3FTTW8F94PRA92952",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9fa1d24a9058.html",
@@ -600,31 +635,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Maverick ",
-      "vin": "3FTTW8F94PRA92952",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/533a5d089429.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used",
-      "price": 32989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Transit T-350 130\" Med Rf 95in Trail",
       "vin": "1FTBW9CG3PKB57802",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/b9f4fcbd6901.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Transit",
-      "condition": "used",
-      "price": 37850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Transit ",
-      "vin": "1FTBW9CG3PKB57802",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9d33182fe32e.html",
       "year": 2023,
       "make": "Ford",
       "model": "Transit",
@@ -680,17 +693,6 @@
       "name": "2024 Ford Bronco Sport 4dr 4wd Outer Banksin Trail",
       "vin": "3FMCR9C6XRRE64686",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/5c2006f5465e.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 36989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco Sport ",
-      "vin": "3FMCR9C6XRRE64686",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/2ff7dace0de3.html",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
@@ -765,17 +767,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport ",
-      "vin": "3FMCR9BN6SRE13359",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/ee13c5f4bf2c.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 34989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford F-150 Xlt 4wd Supercrew 5in Trail",
       "vin": "1FTEW3LPXSFC55690",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/b80d211edb41.html",
@@ -798,22 +789,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Maverick Xl Awd Supercrewin Trail",
+      "name": "2025 Ford Maverick XL AWD SuperCrewin Trail",
       "vin": "3FTTW8BA3SRB25920",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/b0c51618d8f5.html",
       "year": 2025,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Ford Maverick ",
-      "vin": "3FTTW8BA3SRB25920",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/eb234ed7c410.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "price": 35989.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Ford Bronco Sport Outer Banks 4x4in Trail",
