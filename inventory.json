@@ -1,6 +1,6 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-17T23:04:06",
+  "generated_at": "2026-11-18T08:03:22",
   "vehicle_count": 150,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -10,6 +10,14 @@
       "vin": "1FTFW1EV6AFD28363",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/1510af28287c.html",
       "condition": "used"
+    },
+    {
+      "name": "Ford F-250 2011 for salein Trail",
+      "vin": "1FT7W2B69BEC49445",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/85a2ff65707c.html",
+      "condition": "used",
+      "price": 29989.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Ford Transit Connect 2015 for salein Trail",
@@ -26,6 +34,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2016 for salein Trail",
+      "vin": "1FTFX1EF6GKE89558",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/e78cf0958500.html",
+      "condition": "used",
+      "price": 19989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Edge 2017 for salein Trail",
+      "vin": "2FMPK4K86HBC56703",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/4ff20f5f6df2.html",
+      "condition": "used",
+      "price": 14989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Explorer 2017 for salein Trail",
       "vin": "1FM5K8D83HGC72913",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/375d4a1829ea.html",
@@ -34,11 +58,27 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford EcoSport 2019 for salein Trail",
-      "vin": "MAJ6S3FL5KC273806",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/499c5984c254.html",
+      "name": "Ford Mustang 2017 for salein Trail",
+      "vin": "1FATP8FF7H5299364",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/38ed001f1919.html",
       "condition": "used",
-      "price": 10950.0,
+      "price": 35989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe Sport 2017 for salein Trail",
+      "vin": "5XYZUDLA1HG460698",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/3d9b3bc93606.html",
+      "condition": "used",
+      "price": 13989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Edge 2019 for salein Trail",
+      "vin": "2FMPK4J90KBB58462",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/3aebb6d48699.html",
+      "condition": "used",
+      "price": 17989.0,
       "price_currency": "CAD"
     },
     {
@@ -74,11 +114,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford Bronco 2022 for salein Trail",
-      "vin": "1FMDE5BH3NLB23957",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/f0fbd3fd2061.html",
+      "name": "Ford Bronco Sport 2022 for salein Trail",
+      "vin": "3FMCR9B67NRE05509",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/7e999ee15487.html",
       "condition": "used",
-      "price": 42989.0,
+      "price": 27989.0,
       "price_currency": "CAD"
     },
     {
@@ -104,6 +144,12 @@
       "condition": "used",
       "price": 57989.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tundra 2022 for salein Trail",
+      "vin": "5TFMA5EC1NX006919",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9cdd17933d21.html",
+      "condition": "used"
     },
     {
       "name": "Ford F-150 2023 for salein Trail",
@@ -154,6 +200,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2025 for salein Trail",
+      "vin": "1FTEW3LPXSFC55690",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/5f72828f2f13.html",
+      "condition": "used",
+      "price": 53989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Maverick 2025 for salein Trail",
       "vin": "3FTTW8BA3SRB25920",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/eb234ed7c410.html",
@@ -198,17 +252,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Ford F-250 ",
-      "vin": "1FT7W2B69BEC49445",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/85a2ff65707c.html",
-      "year": 2011,
-      "make": "Ford",
-      "model": "F-250",
-      "condition": "used",
-      "price": 29989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Ford Transit Connect Xlt Dual Sliding Din Trail",
       "vin": "NM0LS7F74F1202456",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/f440c0ae7b6a.html",
@@ -229,7 +272,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Ford F-150 4wd Supercrew 145\" Xin Trail",
+      "name": "2016 Ford F-150 4WD SuperCrew Styleside 5-1/2 Ft Box XLTin Trail",
       "vin": "1FTEW1E82GFC43356",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/d8af00bcb647.html",
       "year": 2016,
@@ -251,33 +294,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Ford F-150 ",
-      "vin": "1FTEW1E82GFC43356",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/e78cf0958500.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 23989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Edge 4dr Titanium Awdin Trail",
+      "name": "2017 Ford Edge 4dr Titanium AWDin Trail",
       "vin": "2FMPK4K86HBC56703",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/a981e84b8b83.html",
       "year": 2017,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Ford Edge ",
-      "vin": "2FMPK4K86HBC56703",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/4ff20f5f6df2.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "price": 14989.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2017 Ford Explorer 4dr 4wd Xltin Trail",
@@ -302,31 +327,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Mustang ",
-      "vin": "1FATP8FF7H5299364",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/38ed001f1919.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Mustang",
-      "condition": "used",
-      "price": 35989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Hyundai Santa Fe Sport Awd 4dr 2.0t Sein Trail",
       "vin": "5XYZUDLA1HG460698",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/f596d208d29b.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 13989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLA1HG460698",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/3d9b3bc93606.html",
       "year": 2017,
       "make": "Hyundai",
       "model": "Santa Fe",
@@ -357,14 +360,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Ford EcoSport S 4wdin Trail",
-      "vin": "MAJ6S3FL5KC273806",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/3bc86c87a735.html",
+      "name": "2019 Ford Edge Sel Awdin Trail",
+      "vin": "2FMPK4J90KBB58462",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/1f31ca18fd5c.html",
       "year": 2019,
       "make": "Ford",
-      "model": "EcoSport",
+      "model": "Edge",
       "condition": "used",
-      "price": 10950.0,
+      "price": 17989.0,
       "price_currency": "CAD"
     },
     {
@@ -489,31 +492,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco Outer Banks 4 Door 4in Trail",
-      "vin": "1FMDE5BH3NLB23957",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/fd0ea11e4e5c.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 42989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9B67NRE05509",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/68a7d19cbdcb.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 27989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Bronco Sport ",
-      "vin": "3FMCR9B67NRE05509",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/7e999ee15487.html",
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
@@ -608,6 +589,15 @@
       "condition": "new",
       "price": 57989.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Toyota Tundra 4x4 Crewmax Platinumin Trail",
+      "vin": "5TFMA5EC1NX006919",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9d2faad794ba.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used"
     },
     {
       "name": "2023 Ford F-150 Xlt 4wd Supercrew 6in Trail",
@@ -767,17 +757,6 @@
       "name": "2025 Ford F-150 Xlt 4wd Supercrew 5in Trail",
       "vin": "1FTEW3LPXSFC55690",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/b80d211edb41.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 53989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTEW3LPXSFC55690",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/5f72828f2f13.html",
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
