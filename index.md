@@ -1,6 +1,6 @@
 # A.M. Ford Sales Limited
 
- dealership in Trail. AI-readable inventory mirror, about 154 vehicles.
+ dealership in Trail. AI-readable inventory mirror, about 150 vehicles.
 
 - Official website: https://www.amford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/

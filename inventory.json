@@ -1,7 +1,7 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-17T22:34:58",
-  "vehicle_count": 154,
+  "generated_at": "2026-11-17T23:04:06",
+  "vehicle_count": 150,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -167,6 +167,14 @@
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e999ee15487.html",
       "condition": "new",
       "price": 27989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2024 for salein Trail",
+      "vin": "3FTTW8B95RRB54996",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/5ee0942b6df9.html",
+      "condition": "new",
+      "price": 33989.0,
       "price_currency": "CAD"
     },
     {
@@ -745,17 +753,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Maverick ",
-      "vin": "3FTTW8B95RRB54996",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/5ee0942b6df9.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 33989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN6SRE13359",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/9f2eec7d408a.html",
@@ -797,28 +794,6 @@
       "model": "Maverick",
       "condition": "used",
       "price": 35989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport Outer Banks 4x4in Trail",
-      "vin": "3FMCR9CN1SRF16901",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/0929a7e33f1e.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 42990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport Badlands 4x4in Trail",
-      "vin": "3FMCR9DA4SRF16984",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/ea0d5cf700cb.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 43404.0,
       "price_currency": "CAD"
     },
     {
@@ -1042,17 +1017,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4in Trail",
-      "vin": "3FMCR9CN7TRE03925",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/781ec582ad51.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 44020.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN1TRE21371",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/c8228c670543.html",
@@ -1130,14 +1094,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks 4x4in Trail",
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Trail",
       "vin": "3FMCR9CN1TRE96991",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/1455ab655b47.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 47725.0,
+      "price": 51725.0,
       "price_currency": "CAD"
     },
     {
@@ -1196,14 +1160,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Bronco Sport 4dr 4wd Big Bendin Trail",
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9BN7TRF27193",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/66d073776c37.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39095.0,
+      "price": 42095.0,
       "price_currency": "CAD"
     },
     {
@@ -1284,7 +1248,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick XLT AWD SuperCrewin Trail",
+      "name": "New 2026 Ford Maverick XLT AWD SuperCrewin Trail",
       "vin": "3FTTW8JA3TRA49313",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/657e093c1130.html",
       "year": 2026,
@@ -1328,7 +1292,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
+      "name": "New 2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
       "vin": "3FTTW8J35TRA80970",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/a26626bac838.html",
       "year": 2026,
@@ -1339,7 +1303,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
+      "name": "New 2026 Ford Maverick Hybrid XLT AWD SuperCrewin Trail",
       "vin": "3FTTW8J33TRB26814",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/f0c0a7764f29.html",
       "year": 2026,
@@ -1380,17 +1344,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 54515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium AWDin Trail",
-      "vin": "3FMTK3SUXTMA11061",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3adbb0042354.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 56510.0,
       "price_currency": "CAD"
     },
     {
@@ -1478,7 +1431,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 56120.0,
+      "price": 55370.0,
       "price_currency": "CAD"
     },
     {
@@ -1489,7 +1442,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 56795.0,
+      "price": 56045.0,
       "price_currency": "CAD"
     },
     {
@@ -1500,7 +1453,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 48340.0,
+      "price": 47590.0,
       "price_currency": "CAD"
     },
     {
@@ -1511,7 +1464,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 48340.0,
+      "price": 47590.0,
       "price_currency": "CAD"
     },
     {
