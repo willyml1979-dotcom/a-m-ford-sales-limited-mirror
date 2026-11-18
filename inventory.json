@@ -1,7 +1,7 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-18T08:03:22",
-  "vehicle_count": 150,
+  "generated_at": "2026-11-18T08:23:58",
+  "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -216,6 +216,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Santa Fe Sport 2017 for salein Trail",
+      "vin": "5XYZUDLA1HG460698",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3d9b3bc93606.html",
+      "condition": "new",
+      "price": 13989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2019 for salein Trail",
+      "vin": "1FTEW1EG5KFB07397",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/5a428dcc5ec7.html",
+      "condition": "new",
+      "price": 42989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2020 for salein Trail",
+      "vin": "1FTEW1EP4LKD70232",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/dedf4c78dc00.html",
+      "condition": "new",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2021 for salein Trail",
+      "vin": "1FTFW1E50MKE14571",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/6768f3c974e7.html",
+      "condition": "new",
+      "price": 45989.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Bronco Sport 2022 for salein Trail",
       "vin": "3FMCR9B67NRE05509",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/7e999ee15487.html",
@@ -338,28 +370,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLA1HG460698",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3d9b3bc93606.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 13989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford Edge ",
-      "vin": "2FMPK4K98JBC03760",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/3d231a1ac601.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "new",
-      "price": 15950.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Ford Edge Sel Awdin Trail",
       "vin": "2FMPK4J90KBB58462",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/1f31ca18fd5c.html",
@@ -382,50 +392,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Ford EcoSport ",
-      "vin": "MAJ6S3FL5KC273806",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/499c5984c254.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "EcoSport",
-      "condition": "new",
-      "price": 11950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape ",
-      "vin": "1FMCU9HDXKUB16407",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/1c1d7d41135e.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 15950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford F-150 ",
-      "vin": "1FTEW1EG5KFB07397",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/5a428dcc5ec7.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 42989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Ranger ",
-      "vin": "1FTER4FH1KLA80636",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/13b2e4081bd4.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 29950.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Ford F-150 Xlt 4wd Supercrew 5in Trail",
       "vin": "1FTEW1EP4LKD70232",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/514c5cbc94e3.html",
@@ -434,17 +400,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTFX1E58LKE00087",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/dedf4c78dc00.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 26950.0,
       "price_currency": "CAD"
     },
     {
@@ -481,17 +436,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford F-150 ",
-      "vin": "1FTFW1E50MKE14571",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/6768f3c974e7.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 45989.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Bronco Sport Big Bend 4x4in Trail",
       "vin": "3FMCR9B67NRE05509",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/68a7d19cbdcb.html",
@@ -522,17 +466,6 @@
       "model": "Maverick",
       "condition": "used",
       "price": 37989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMDE5BH3NLB23957",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/f0fbd3fd2061.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 42989.0,
       "price_currency": "CAD"
     },
     {
@@ -1190,7 +1123,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "new",
-      "price": 58945.0,
+      "price": 54445.0,
       "price_currency": "CAD"
     },
     {
@@ -1268,6 +1201,17 @@
       "model": "Maverick",
       "condition": "new",
       "price": 55795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Maverick Supercrew Awd Xltin Trail",
+      "vin": "3FTTW8JA4TRA47344",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/new/a36627c0ecfd.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 42345.0,
       "price_currency": "CAD"
     },
     {
