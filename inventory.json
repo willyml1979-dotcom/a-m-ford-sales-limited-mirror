@@ -1,6 +1,6 @@
 {
   "dealership": "A M Ford Sales Limited",
-  "generated_at": "2026-11-18T08:23:58",
+  "generated_at": "2026-11-18T16:37:17",
   "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -189,6 +189,14 @@
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/2ff7dace0de3.html",
       "condition": "used",
       "price": 36989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2024 for salein Trail",
+      "vin": "3FTTW8B95RRB54996",
+      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/5ee0942b6df9.html",
+      "condition": "used",
+      "price": 33989.0,
       "price_currency": "CAD"
     },
     {
@@ -635,17 +643,6 @@
       "name": "2024 Ford Maverick Xl Awd Supercrewin Trail",
       "vin": "3FTTW8B95RRB54996",
       "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/09f1699b618a.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used",
-      "price": 33989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Maverick ",
-      "vin": "3FTTW8B95RRB54996",
-      "url": "https://willyml1979-dotcom.github.io/a-m-ford-sales-limited-mirror/used/5ee0942b6df9.html",
       "year": 2024,
       "make": "Ford",
       "model": "Maverick",
